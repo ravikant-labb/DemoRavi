@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a53d6c-c5c8-4594-92b5-8ec5b9772e76" name="Default Changelist" comment="" />
+    <list default="true" id="14a53d6c-c5c8-4594-92b5-8ec5b9772e76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/academy/launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/academy/launch.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cuucmberOption/TestRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="102">
               <caret line="9" column="113" selection-start-line="9" selection-start-column="113" selection-end-line="9" selection-end-column="113" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -60,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/academy/launch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="494">
+              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,6 +140,9 @@
       <find>chrome</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -156,9 +161,9 @@
         <option value="$PROJECT_DIR$/src/test/java/stepDefination/stepDefination.java" />
         <option value="$PROJECT_DIR$/src/test/java/cucumber/Login.feature" />
         <option value="$PROJECT_DIR$/src/test/java/cuucmberOption/TestRunner.java" />
-        <option value="$PROJECT_DIR$/src/test/java/academy/launch.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefination/stepDefinitions.java" />
         <option value="$PROJECT_DIR$/src/test/java/academy/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/academy/launch.java" />
       </list>
     </option>
   </component>
@@ -180,73 +185,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoRavi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoRavi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoRavi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoRavi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoRavi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoRavi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoRavi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoRavi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoRavi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoRavi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="academy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cucumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cuucmberOption" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stepDefination" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gits" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -406,7 +388,7 @@
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24026845" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24362417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,17 +460,17 @@
     <entry file="file://$PROJECT_DIR$/reports/launchBrowser.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/E2EProject/E2EProject/src/main/java/resources/ExtentReporterNG.java">
+    <entry file="file://$PROJECT_DIR$/../Downloads/E2EProject/E2EProject/src/main/java/resources/ExtentReporterNG.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/E2EProject/E2EProject/src/test/java/Academy/Listeners.java">
+    <entry file="file://$PROJECT_DIR$/../Downloads/E2EProject/E2EProject/src/test/java/Academy/Listeners.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/E2EProject/E2EProject/src/main/java/resources/base.java">
+    <entry file="file://$PROJECT_DIR$/../Downloads/E2EProject/E2EProject/src/main/java/resources/base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="56" column="94" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="94" />
@@ -516,6 +498,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cuucmberOption/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="113" selection-start-line="9" selection-start-column="113" selection-end-line="9" selection-end-column="113" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -566,20 +558,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cuucmberOption/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="113" selection-start-line="9" selection-start-column="113" selection-end-line="9" selection-end-column="113" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/academy/launch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="494">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
